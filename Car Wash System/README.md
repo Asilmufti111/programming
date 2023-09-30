@@ -1,2 +1,2 @@
-# CPCS204
-## Car wash system
+# Car wash system
+## CPCS204
