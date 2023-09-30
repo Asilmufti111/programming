@@ -1,0 +1,33 @@
+Room with the id (101) was added successfully
+Room with the id (102) was added successfully
+Room with the id (103) was added successfully
+Room with the id (104) was added successfully
+Suite with the id (100) was added successfully
+Suite with the id (200) was added successfully
+Suite with the id (300) was added successfully
+Suite with the id (400) was added successfully
+--------------------------------------------------
+Guest with the name (Mustafa Ali) was added successfully
+Guest with the name (Ahmad Rashid) was added successfully
+Guest with the name (Salwa Assad) was added successfully
+Guest with the name (Sara Fuad) was added successfully
+Guest with the name (Maha Rida) was added successfully
+Guest with the name (Nadeem othman) was added successfully
+--------------------------------------------------
+The Reservation with ID (1) is Assigned to a Guest with ID (1131)  for Hotel Unite (101)
+--------------------------------------------------
+Assign command Unsuccessful  HotelUnite ID (101) was not Available 
+--------------------------------------------------
+Assign command Unsuccessful
+Guest ID (102)  was not found 
+--------------------------------------------------
+Assign command Unsuccessful
+HotelUnite ID (113)  was not found  
+--------------------------------------------------
+Vacant Rooms in the Hotel are : 
+102 Room is vacant
+103 Room is vacant
+104 Room is vacant
+
+
+Thank you for using KAU Hotel system

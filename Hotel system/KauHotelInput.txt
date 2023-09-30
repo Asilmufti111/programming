@@ -1,0 +1,37 @@
+Add_Room
+4
+101 400 Single
+102 450 Double
+103 500 Triple
+104 500 Triple
+
+Add_Suite
+4
+100 1000 2 2
+200 9000 1 1
+300 1000 2 1
+400 1000 2 2
+
+Add_Guest
+6
+Mustafa Ali Male 1131 19 
+Ahmad Rashid Male 1123 22 
+Salwa Assad Female 1131 23 
+Sara Fuad Femal 1142 52 
+Maha Rida Femal 1122 62 
+Nadeem othman Male 1132 3 
+
+Assign_Guest_HotelUnite
+4
+001 1131 101
+002 1142 101 
+003 102 100
+004 1123 113
+
+
+Print_Most_Expensive_Suite
+Print_Vacant_Room
+
+
+Quit
+
