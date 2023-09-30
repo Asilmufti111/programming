@@ -1,0 +1,69 @@
+		 Car Wash System
+	---------------------------------------------------------
+
+Afnan Ahmed		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Bilal Omer		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Ali Saad		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Afnan Ahmed		 wants Wash car service with bill number :1
+
+Azzam Abrar		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Bilal Omer		 wants Polish car service with bill number :2
+
+Anas Saleh		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Saeed Gamal		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Abdullah Yahya		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Ali Saad		 wants Polish car service with bill number :3
+
+Yousef Ahmed		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Ibrahem Hamad		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Fahad Obaid		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Ammar Hassan		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Azzam Abrar		 wants Wash car service with bill number :4
+
+Mohammed Shaoib		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Iyad Ahmed		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Wash)
+
+Noor Tahir		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Fadi Saif		  REGISTER in finalLab2023_1_final.QueueOfCustomerLL (Main Queue)  	 Requested service  (Polish)
+
+Anas Saleh		 wants Wash car service with bill number :5
+
+Saeed Gamal		 wants Polish car service with bill number :6
+
+Abdullah Yahya		 wants Polish car service with bill number :7
+
+Yousef Ahmed		 wants Wash car service with bill number :8
+
+Ibrahem Hamad		 wants Wash car service with bill number :9
+
+Fahad Obaid		 wants Wash car service with bill number :10
+
+Ammar Hassan		 wants Polish car service with bill number :11
+
+Mohammed Shaoib		 wants Polish car service with bill number :12
+
+Iyad Ahmed		 wants Wash car service with bill number :13
+
+Noor Tahir		 wants Polish car service with bill number :14
+
+Fadi Saif		 wants Polish car service with bill number :15
+
+Total Polish Requests were: 8
+
+Total Wash Requests were: 7
+
+The total number of customers served today: 15 with bill numbers: 
+15, 14, 12, 11, 7, 6, 3, 2, 13, 10, 9, 8, 5, 4, 1, 
